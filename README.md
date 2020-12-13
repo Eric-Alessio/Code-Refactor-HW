@@ -1,2 +1,1 @@
-# Code-Refactor-HW
-First HW assignment.
+For this homework assignment I worked on a website that needed to be refactored.  THere was various CSS code that I was able to condense, eliminating multiple blocks without compromising integrity.  It was tricky at first but by going into video logs was able to change majority of the divs into proper semantic tags while adding commentary.
